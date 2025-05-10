@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Capriotti7
 - 👀 I’m interested in working with teammates and learning new skills!
-- 🌱 I’m currently learning TypeScript, CSS, HTML, Angular , etc at UTN (National Technological University).
+- 🌱 I’m currently learning TypeScript, CSS, HTML, Angular, Python, etc at UTN (National Technological University).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Ig: santi_capriotti  Email: santiagocapriotti@gmail.com
 - 😄 Pronouns: He/Him
