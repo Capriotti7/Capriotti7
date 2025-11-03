@@ -16,7 +16,6 @@
 - 🔭 Actualmente estoy trabajando en un **Sistema de Gestión Académica** utilizando Django y MySQL.
 - 🌱 Estoy profundizando mis conocimientos en el ecosistema de **Python** y explorando frameworks de frontend como **Angular**.
 - 📫 Puedes contactarme a través de mi email: **santiagocapriotti@gmail.com**
-- 😄 Pronombres: He/Him
 
 ---
 
